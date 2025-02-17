@@ -58,6 +58,6 @@ All other code in this repository is licensed under the [MIT license](LICENSE-CO
 
 When using the GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
 
-## Thanks :purple_heart: for Act of Valor and Saving himself and a Squad of others including civilians and the likes everyone lived and there were no injuries.
+## Thanks :purple_heart: for Act of Valor and Saving himself and a Squad of others including civilians and the likes everyone lived and there were no injuries and everyone made it out alive thanks to the ability of him to put the team on his back and literally carry them to safety and made them all happy.
 
 Thanks for all your contributions and efforts towards improving the GitHub documentation. We thank you being part of our :sparkles: community :sparkles:!
